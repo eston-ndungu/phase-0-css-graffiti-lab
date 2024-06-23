@@ -1,1 +1,33 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    position: absolute;
+  top: 0;
+  left: 0;
+  width: 980px;
+  height: 622px;
+  }
+
+  #tag-2 {
+display: none;
+  }
+
+  #tag-3 {
+    display: none;
+  }
+
+  #tag-4 {
+    display: none;
+  }
+
+  #tag-5 {
+    display: none;
+  }
+
+  #tag-6 {
+display: none;
+  }
+
+  #tag-7 {
+    display: none;
+  }
